@@ -274,7 +274,3 @@
 
 4. **Trust the taper.** You will feel restless in Weeks 14–15. That's normal. Your fitness is already there.
 
-
----
-
-**You've got this. 3:28 is yours.** 💪
