@@ -84,10 +84,10 @@
 
 | Day | Workout | Details |
 | :--- | :--- | :--- |
-| **Monday** | Intervals | 6 x 1km @ 4:08/km, 2:30 rest between. Warm-up 2km, cool-down 2km. **Total: 10km** |
-| **Wednesday** | Easy | 9km @ 5:45/km |
-| **Thursday** | Tempo | 10km @ 4:45/km. Warm-up 2km, cool-down 2km. **Total: 14km** |
-| **Saturday** | Long Run | 22km total. Last 10km @ MP (4:58/km). |
+| ~~**Monday**~~ | Intervals | 6 x 1km @ 4:08/km, 2:30 rest between. Warm-up 2km, cool-down 2km. **Total: 10km** |
+| ~~**Wednesday**~~ | Easy | 9km @ 5:45/km |
+| ~~**Thursday**~~ | Tempo | 10km @ 4:45/km. Warm-up 2km, cool-down 2km. **Total: 14km** |
+| ~~**Saturday**~~ | Long Run | 22km total. Last 10km @ MP (4:58/km). |
 
 **Week 4 Total: 55km**
 
