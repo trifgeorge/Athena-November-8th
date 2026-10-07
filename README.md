@@ -142,10 +142,10 @@
 
 | Day | Workout | Details |
 | :--- | :--- | :--- |
-| **Monday** | Intervals | 6 x 1km @ 4:05/km, 2:30 rest between. Warm-up 2km, cool-down 2km. **Total: 10km** |
-| **Wednesday** | Easy | 10km @ 5:50/km |
-| **Thursday** | Tempo | 13km @ 4:42/km. Warm-up 2km, cool-down 2km. **Total: 17km** |
-| **Saturday** | Long Run | 28km total. Last 14km @ MP (4:55/km). |
+| ~~**Monday**~~ | Intervals | 6 x 1km @ 4:05/km, 2:30 rest between. Warm-up 2km, cool-down 2km. **Total: 10km** |
+| ~~**Wednesday**~~ | Easy | 10km @ 5:50/km |
+| 🍑**Thursday**🍑 | Tempo | 13km @ 4:42/km. Warm-up 2km, cool-down 2km. **Total: 17km** |
+| 🍑**Saturday**🍑 | Long Run | 28km total. Last 14km @ MP (4:55/km). |
 
 **Week 8 Total: 65km**
 
@@ -161,11 +161,10 @@
 
 | Day | Workout | Details |
 | :--- | :--- | :--- |
-| **Monday** | Intervals | 8 x 800m @ 3:58/km, 2:00 rest between. Warm-up 2km, cool-down 2km. **Total: 10km** |
-| **Tuesday** | Gym | Leg strength + core (moderate) |
-| **Wednesday** | Easy | 10km @ 5:50/km |
-| **Thursday** | Tempo | 13km @ 4:40/km. Warm-up 2km, cool-down 2km. **Total: 17km** |
-| **Saturday** | Long Run | 30km total. Last 15km @ MP (4:55/km). |
+| 🍑**Monday**🍑 | Intervals | 8 x 800m @ 3:58/km, 2:00 rest between. Warm-up 2km, cool-down 2km. **Total: 10km** |
+| 🍑**Wednesday**🍑 | Easy | 10km @ 5:50/km |
+| 🍑**Thursday**🍑 | Tempo | 13km @ 4:40/km. Warm-up 2km, cool-down 2km. **Total: 17km** |
+| 🍑**Saturday**🍑 | Long Run | 30km total. Last 15km @ MP (4:55/km). |
 
 **Week 9 Total: 67km**
 
@@ -175,10 +174,10 @@
 
 | Day | Workout | Details |
 | :--- | :--- | :--- |
-| **Monday** | Intervals | 5 x 1km @ 4:02/km, 2:30 rest between. Warm-up 2km, cool-down 2km. **Total: 9km** |
-| **Wednesday** | Easy | 10km @ 5:50/km |
-| **Thursday** | Tempo | 14km @ 4:40/km. Warm-up 2km, cool-down 2km. **Total: 18km** |
-| **Saturday** | Long Run | 32km total. Last 16km @ MP (4:55/km). *Fueling practice!* |
+| 🍑**Monday**🍑 | Intervals | 5 x 1km @ 4:02/km, 2:30 rest between. Warm-up 2km, cool-down 2km. **Total: 9km** |
+| 🍑**Wednesday**🍑 | Easy | 10km @ 5:50/km |
+| 🍑**Thursday**🍑 | Tempo | 14km @ 4:40/km. Warm-up 2km, cool-down 2km. **Total: 18km** |
+| 🍑**Saturday**🍑 | Long Run | 32km total. Last 16km @ MP (4:55/km). *Fueling practice!* |
 
 **Week 10 Total: 69km**
 
@@ -188,7 +187,7 @@
 
 | Day | Workout | Details |
 | :--- | :--- | :--- |
-| **Monday** | Intervals | 10 x 800m @ 3:58/km, 2:00 rest between. Warm-up 2km, cool-down 2km. **Total: 12km** |
+| 🍑**Monday**🍑 | Intervals | 10 x 800m @ 3:58/km, 2:00 rest between. Warm-up 2km, cool-down 2km. **Total: 12km** |
 | **Wednesday** | Easy | 10km @ 5:50/km |
 | **Thursday** | Tempo | 14km @ 4:38/km. Warm-up 2km, cool-down 2km. **Total: 18km** |
 | **Saturday** | Long Run | 32km total. **Race Rehearsal:** 22km @ MP (4:55/km), with 5km warm-up and 5km cool-down. |
