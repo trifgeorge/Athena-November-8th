@@ -188,9 +188,9 @@
 | Day | Workout | Details |
 | :--- | :--- | :--- |
 | 🍑**Monday**🍑 | Intervals | 10 x 800m @ 3:58/km, 2:00 rest between. Warm-up 2km, cool-down 2km. **Total: 12km** |
-| **Wednesday** | Easy | 10km @ 5:50/km |
-| **Thursday** | Tempo | 14km @ 4:38/km. Warm-up 2km, cool-down 2km. **Total: 18km** |
-| **Saturday** | Long Run | 32km total. **Race Rehearsal:** 22km @ MP (4:55/km), with 5km warm-up and 5km cool-down. |
+| ~~**Wednesday**~~ | Easy | 10km @ 5:50/km |
+| ~~**Thursday**~~ | Tempo | 14km @ 4:38/km. Warm-up 2km, cool-down 2km. **Total: 18km** |
+| ~~**Saturday**~~ | Long Run | 32km total. **Race Rehearsal:** 22km @ MP (4:55/km), with 5km warm-up and 5km cool-down. |
 
 **Week 11 Total: 72km**
 
